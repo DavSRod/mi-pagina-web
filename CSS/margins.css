@@ -1,0 +1,21 @@
+body {
+    background-color: beige;
+}
+.box-style {
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+}
+.box-1 {
+    /*grosor del border, tipo de border y color del borde*/
+    border: 5px solid rgb(64,64,64);
+}
+.box-2 {
+    border: 5px dotted red;
+}
+.box-3 {
+    border: 5px dotted blue;
+}
+.box-4 {
+    border: 5px double darkcyan;
+}
