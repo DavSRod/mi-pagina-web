@@ -11,11 +11,20 @@ body {
     border: 5px solid rgb(64,64,64);
 }
 .box-2 {
-    border: 5px dotted red;
+    border: 5px groove red;
 }
 .box-3 {
     border: 5px dotted blue;
 }
 .box-4 {
-    border: 5px double darkcyan;
+    border: 5px double darkcyan;|
+}
+.box-5 {
+    border: 5px ridge yellowgreen;|
+}
+.box-6 {
+    border: 5px inset orchid;|
+}
+.box-7 {
+    border: 5px outset green;|
 }
